@@ -1,6 +1,6 @@
 # YouTube-Downloader
 
-<p align="center">  <b> <h1>Under Construction</h1> </b>
+<b> <h1 align="center">Under Construction</h1> </b>
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/675069275408564268/777250766700150794/giphy.gif" title="hover text">
